@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/collectable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,6 +21,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/mainCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pause.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586166812918</updated>
       <workItem from="1586166817562" duration="2729000" />
+      <workItem from="1586213455883" duration="794000" />
     </task>
     <servers />
   </component>
